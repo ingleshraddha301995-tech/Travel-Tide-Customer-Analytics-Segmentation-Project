@@ -1,5 +1,4 @@
-# Travel-Tide-Customer-Analytics-Segmentation-Project
-Customer segmentation &amp; lifetime value analysis for TravelTide.
+ 
 # 🌍 TravelTide: Customer Analytics & Segmentation Project
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/) 
