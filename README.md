@@ -68,6 +68,7 @@ The analysis followed a structured data science pipeline:
 ---
 
 ## 📁 Repository Structure
+```
 TravelTide/
 │
 ├── data/
@@ -89,4 +90,5 @@ TravelTide/
 │
 ├── README.md
 └── LICENSE
+```
 
