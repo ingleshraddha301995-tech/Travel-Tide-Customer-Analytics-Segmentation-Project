@@ -92,3 +92,28 @@ TravelTide/
 └── LICENSE
 ```
 
+---
+
+## 🧠 How to Run the Project
+
+### 🔹 Option 1: Run in Google Colab
+1. Open the notebook:  
+   [TravelTide_Segmentation.ipynb](https://colab.research.google.com/)
+2. Upload the dataset(s) from the `data/processed/` folder (e.g., `TravelTide_Segmented_Customers.csv`)
+3. Run all cells sequentially to reproduce analysis and visualizations.
+
+### 🔹 Option 2: Run Locally
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/Travel-Tide-Customer-Analytics-Segmentation-Project.git
+   cd Travel-Tide-Customer-Analytics-Segmentation-Project   
+
+
+Install required dependencies:
+pip install -r requirements.txt
+
+Open Jupyter Notebook or VS Code and run
+jupyter notebook notebooks/TravelTide_Segmentation.ipynb
+
+
+
