@@ -68,3 +68,25 @@ The analysis followed a structured data science pipeline:
 ---
 
 ## 📁 Repository Structure
+TravelTide/
+│
+├── data/
+│   ├── raw/                # Original extracted datasets
+│   ├── processed/          # Cleaned & feature-engineered data (CSV output)
+│
+├── notebooks/
+│   └── TravelTide_Segmentation.ipynb  # Full analysis notebook
+│
+├── scripts/
+│   └── data_preprocessing.py          # Python scripts (if modularized)
+│
+├── reports/
+│   ├── TravelTide_Project_Summary.pdf # Executive summary & detailed report
+│   └── TravelTide_Presentation.pdf    # Presentation slides
+│
+├── output/
+│   └── TravelTide_Segmented_Customers.csv  # Final segmented dataset
+│
+├── README.md
+└── LICENSE
+
